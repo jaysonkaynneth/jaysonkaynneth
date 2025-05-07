@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaysonkaynneth&label=Profile%20views&color=0e75b6&style=flat" alt="jaysonkaynneth" /> </p>
 
-- 🔭 I’m currently working on **Totally (Expense Tracker)**
+- 🔭 I’m currently working on **micro SaaS products**
 
 - 🌱 I’m currently learning **iOS, Flutter, and Android**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://jaysonkaynneth.github.io)
 
-- 💬 Ask me about **Swift, Dart, and Kotlin**
+- 💬 You can ask me about **Swift, Dart, and Kotlin**
 
-- 📫 How to reach me **jasonkenneth17@gmail.com**
+- 📫 You can reach out to me through **jasonkenneth17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1moZd8fFKvZTJhnwJnrHMSNTRAYQ7gHG4/view?usp=sharing](https://drive.google.com/file/d/1moZd8fFKvZTJhnwJnrHMSNTRAYQ7gHG4/view?usp=sharing)
+- 📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1moZd8fFKvZTJhnwJnrHMSNTRAYQ7gHG4/view?usp=sharing)
 
-- ⚡ Fun fact **I love axolotls**
+- ⚡ Fun fact about me **I love deeply**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
