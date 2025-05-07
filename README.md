@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **iOS, Flutter, and Android**
 
-- 👨‍💻 All of my projects are available at [https://jasonkenneth.notion.site/Jason-Kenneth-s-Portfolio-18a640bc87064966b5c269eff00159d5](https://jasonkenneth.notion.site/Jason-Kenneth-s-Portfolio-18a640bc87064966b5c269eff00159d5)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jaysonkaynneth.github.io)
 
 - 💬 Ask me about **Swift, Dart, and Kotlin**
 
